@@ -1,8 +1,10 @@
 {
-  "name": "e-commerce",
+  "name": "SignUp-LogIn-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Bisma-Asif.github.io/E-commerce-React-js-Web",
+  "homepage": "http://Bisma-Asif.github.io/React-Js-SignUp-LogIn-form",
+
+
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
