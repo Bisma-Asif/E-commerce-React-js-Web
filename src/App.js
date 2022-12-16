@@ -4,7 +4,7 @@ import Auth from './Components/Auth.js';
 
 function App() {
   return (
-   <div>
+   <div basename="/React-Js-SignUp-LogIn-form.github.io">
     <Auth/>
    </div>
   );
